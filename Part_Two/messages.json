@@ -1,0 +1,32 @@
+{
+  "MessageID": "7431562824",
+  "MessageHash": "74:1:HELLOHELLO",
+  "Recipient": "+278312345",
+  "Message": "hello"
+}
+{
+  "MessageID": "9905071889",
+  "MessageHash": "99:2:GOODBYEGOODBYE",
+  "Recipient": "+278312345",
+  "Message": "goodbye"
+}
+{
+  "MessageID": "5022474726",
+  "MessageHash": "50:1:HELLOHELLO",
+  "Recipient": "+27831234578",
+  "Message": "hello"
+}
+{
+  "MessageID": "Hello",
+  "MessageHash": "HE:0:GOODBYEGOODBYE",
+  "Recipient": "+27837327936",
+  "Message": "Goodbye"
+}
+{
+  "MessageID": "Hello",
+  "MessageHash": "HE:0:GOODBYEGOODBYE",
+  "Recipient": "+27837327936",
+  "Message": "Goodbye"
+}
+
+hello
