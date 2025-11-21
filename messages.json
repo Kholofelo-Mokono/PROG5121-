@@ -1,0 +1,110 @@
+{
+  "MessageID": "4579883108",
+  "MessageHash": "45:1:HELLOHELLO",
+  "Recipient": "+27837327936",
+  "Message": "hello"
+}
+{
+  "MessageID": "9430381571",
+  "MessageHash": "94:2:KHOLOKHOLO",
+  "Recipient": "+27837327936",
+  "Message": "kholo"
+}
+{ "MessageID": "8513280461", "MessageHash": "85:1:HELLOHELLO", "Recipient": "+27837327936", "Message": "Hello" }
+{ "MessageID": "0722550101", "MessageHash": "07:2:KHOLOKHOLO", "Recipient": "+27837327936", "Message": "kholo" }
+{
+ MessageID: 5301480013
+ MessageHash: 53:1:HELLOKHOLOFELO
+ Recipient: +27837327936
+ Message: hello kholofelo
+}
+{
+ MessageID: 9455606415
+ MessageHash: 94:1:HELLOKHOLOHELLOKHOLO
+ Recipient: +27837327936
+ Message: HelloKholo
+}
+{
+ MessageID: 2225849785
+ MessageHash: 22:1:HELLOKHOLO
+ Recipient: +27837327936
+ Message: hello Kholo
+}
+{
+ MessageID: 0246871508
+ MessageHash: 02:1:ROSEBANKROSEBANK
+ Recipient: +27837327936
+ Message: rosebank
+}
+{
+ MessageID: 4017595157
+ MessageHash: 40:1:HELLOHELLO
+ Recipient: +27837327936
+ Message: hello
+}
+{
+ MessageID: 7236191291
+ MessageHash: 72:2:KHOLOKHOLO
+ Recipient: +27837327936
+ Message: kholo
+}
+{
+ MessageID: 6666732439
+ MessageHash: 66:3:ROSEBANKROSEBANK
+ Recipient: +27837327936
+ Message: rosebank
+}
+{
+ MessageID: 4205643597
+ MessageHash: 42:1:DIDCAKE?
+ Recipient: +27834557896
+ Message: Did you get the cake?
+}
+{
+ MessageID: 5541986394
+ MessageHash: 55:2:WHERETIME.
+ Recipient: +27838884567
+ Message: Where are you? You are late! I have asked you to be on time.
+}
+{
+ MessageID: 1508793524
+ MessageHash: 15:3:YOHOOOOOO,GATE
+ Recipient: +27834484567
+ Message: Yohoooooo, I am at your gate
+}
+{
+ MessageID: 7254602259
+ MessageHash: 72:1:DIDCAKE?
+ Recipient: +27834557896
+ Message: Did you get the cake?
+}
+{
+ MessageID: 9345669827
+ MessageHash: 93:2:WHERETIME.
+ Recipient: +27838884567
+ Message: where are you? You are late! I have asked you to be on time.
+}
+{
+ MessageID: 1860338422
+ MessageHash: 18:2:YOHOOOOOOOO,GATE
+ Recipient: +27834484567
+ Message: yohoooooooo, I am at your gate
+}
+{
+ MessageID: 0178742380
+ MessageHash: 01:3:ITTIME!
+ Recipient: 0838884567
+ Message: It is dinner time!
+}
+{
+ MessageID: 4279409525
+ MessageHash: 42:4:OK,YOU.
+ Recipient: +27838884567
+ Message: ok, I am leaving without you.
+}
+{
+ MessageID: 0060351005
+ MessageHash: 00:4:HELLOHELLO
+ Recipient: 0837327936
+ Message: hello
+}
